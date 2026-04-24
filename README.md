@@ -147,7 +147,8 @@ Stop the robot: 0
 
 ## Author
 
-saajina s
+saajina S
+
 Computer Science Engineering Student
 
 Project: Autonomous Timed Delivery Robot using Arduino
